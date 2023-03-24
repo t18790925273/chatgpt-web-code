@@ -46,10 +46,10 @@ onMounted(() => {
       </h2>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
         <p>
-          此项目开源于
+          此项目来源于
           <a
             class="text-blue-600 dark:text-blue-500"
-            href="https://kejicode.cn"
+            href="https://www.kejicode.cn"
             target="_blank"
           >
            科技源代码
